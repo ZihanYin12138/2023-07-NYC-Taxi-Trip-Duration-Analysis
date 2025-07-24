@@ -36,6 +36,8 @@ This project explores the factors that influence **NYC taxi trip durations** usi
 ├── README.md
 ```
 
+**Note**: The `data/` subdirectories are intentionally left empty in the repository. Please run the provided scripts to populate them, or refer to the README for data source links.
+
 ---
 
 ## Pipeline & Workflow
