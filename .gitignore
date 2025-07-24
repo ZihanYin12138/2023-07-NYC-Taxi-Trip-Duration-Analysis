@@ -1,6 +1,11 @@
 # 忽略 data 目录中的所有实际数据文件，但保留 .gitkeep
-data/**
+data/**/**
 !data/**/.gitkeep
+!data/curated
+!data/landing
+!data/merged_data
+!data/raw
+!data/taxi_zones
 
 # 忽略常见缓存和中间文件
 *.pyc
