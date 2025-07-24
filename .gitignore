@@ -1,0 +1,9 @@
+# 忽略 data 目录中的所有实际数据文件，但保留 .gitkeep
+data/**
+!data/**/.gitkeep
+
+# 忽略常见缓存和中间文件
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
