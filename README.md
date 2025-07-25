@@ -12,6 +12,7 @@ This project explores the factors that influence **NYC taxi trip durations** usi
 - **Research Objective**: Understand and model `trip_duration`, defined as the time from passenger pickup to drop-off.
 - **Timeline Covered**: January 2019 – June 2019
 - **Tools Used**: PySpark, Python, Pandas, NumPy, Scikit-learn, Seaborn, GeoPandas, Jupyter Notebook
+- A PDF version of the final project report is available [here](./report/ADS_Project_1_Report.pdf).
 
 ---
 
