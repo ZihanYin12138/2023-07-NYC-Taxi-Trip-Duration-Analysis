@@ -94,46 +94,6 @@
 
 ---
 
-## 附录：原始 README 说明
-
-### MAST30034 项目 1 原始 README
-
-- 姓名：`Zihan Yin`  
-- 学号：`1149307`
-
 ---
 
-### 研究目标
-
-- **trip_duration**：指乘客从上车到下车所花费的时间  
-- **时间范围**：2019 年 1 月至 2019 年 6 月
-
----
-
-### 文件运行顺序
-
-请依次运行 `scripts` 与 `notebooks` 目录下的文件：
-
-1. `step1-download_tlc_data.py`：  
-   下载 TLC 数据到 `data/landing/TLC_data/`
-
-2. `step2-1st_preprocessing.ipynb`：  
-   第一阶段预处理，将数据存入 `data/raw/TLC_data/`
-
-3. `step3-2nd_preprocessing.ipynb`：  
-   第二阶段预处理，将数据存入 `data/curated/TLC_data/`
-
-4. `step4-download_external_data_and_merge.ipynb`：  
-   下载外部数据至 `data/landing/external_data/`，预处理后分别存入 `data/raw/` 与 `data/curated/`，最终合并并存储于 `data/merged_data/`
-
-5. `step5-download_taxi_zone_data_and_geo_plot.ipynb`：  
-   下载出租车地理分区数据到 `data/taxi_zones/`，并与前面合并数据进行地理可视化
-
-6. `step6-plotting_and_analysis.ipynb`：  
-   使用 `merged_data` 样本数据进行分析与可视化
-
-7. `step7-build_test_data.py`：  
-   下载 2019 年 7 月测试数据至 `data/landing/TLC_data_for_test/`，完成完整预处理与合并，存储于 `data/merged_data/`
-
-8. `step8-model_and_evaluation.ipynb`：  
-   使用 `merged_data` 与 `merged_data_for_test` 进行建模与评估
+_项目是作为墨尔本大学的学科MAST30034应用数据科学的一部分，于2023年第2学期完成的。_
