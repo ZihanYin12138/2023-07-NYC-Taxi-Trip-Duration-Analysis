@@ -1,17 +1,17 @@
 # 中文版README文件请见[`README.zh.md`](README.zh.md)
 # 2023-07 NYC Taxi Trip Duration Analysis
 
-A data science project analyzing NYC taxi trip durations from January to June 2019, including data preprocessing, geospatial visualization, and predictive modeling.
+A data science project analyzing NYC taxi trip durations using PySpark, from January to June 2019, including data preprocessing, geospatial visualization, and predictive modeling.
 
 ---
 
 ## Project Overview
 
-This project explores the factors that influence **NYC taxi trip durations** using open data from the NYC Taxi and Limousine Commission (TLC), combined with weather and zone data. The final goal is to build a regression model that can predict trip duration.
+This project explores the factors that influence **NYC taxi trip durations** using open data from the NYC Taxi and Limousine Commission (TLC), combined with weather and zone data. The final goal is to build a regression model that can predict trip duration. PySpark was used to handle and process millions of NYC taxi trip records efficiently during the preprocessing stage.
 
 - **Research Objective**: Understand and model `trip_duration`, defined as the time from passenger pickup to drop-off.
 - **Timeline Covered**: January 2019 – June 2019
-- **Tools Used**: Python, Pandas, NumPy, Scikit-learn, Seaborn, GeoPandas, Jupyter Notebook
+- **Tools Used**: PySpark, Python, Pandas, NumPy, Scikit-learn, Seaborn, GeoPandas, Jupyter Notebook
 
 ---
 
