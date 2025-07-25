@@ -1,5 +1,4 @@
-# 中文版README文件请见`README.zh.md`
-
+# 中文版README文件请见[`README.zh.md`](README.zh.md)
 # 2023-07 NYC Taxi Trip Duration Analysis
 
 A data science project analyzing NYC taxi trip durations from January to June 2019, including data preprocessing, geospatial visualization, and predictive modeling.
@@ -38,7 +37,7 @@ This project explores the factors that influence **NYC taxi trip durations** usi
 ├── README.md
 ```
 
-**Note**: The `data/` subdirectories are intentionally left empty in the repository. Please run the provided scripts to populate them, or refer to the README for data source links.
+> ⚠️ **Note**: The `data/` subdirectories are intentionally left empty in the repository. Please run the provided scripts to populate them, or refer to the README for data source links.
 
 ---
 
