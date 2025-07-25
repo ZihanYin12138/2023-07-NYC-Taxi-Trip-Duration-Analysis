@@ -12,6 +12,7 @@
 - **研究目标**：理解并建模 `trip_duration`（乘客上车到下车的时间）
 - **时间范围**：2019 年 1 月 – 2019 年 6 月
 - **使用工具**：PySpark、Python、Pandas、NumPy、Scikit-learn、Seaborn、GeoPandas、Jupyter Notebook
+- 项目的最终报告（PDF 格式）位于 [此处](./report/ADS_Project_1_Report.pdf)。
 
 ---
 
