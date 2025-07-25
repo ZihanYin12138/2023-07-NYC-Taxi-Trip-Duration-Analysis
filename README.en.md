@@ -1,3 +1,5 @@
+# 中文版README文件请见`README.zh.md`
+
 # 2023-07 NYC Taxi Trip Duration Analysis
 
 A data science project analyzing NYC taxi trip durations from January to June 2019, including data preprocessing, geospatial visualization, and predictive modeling.
